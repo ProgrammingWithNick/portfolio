@@ -1,12 +1,3 @@
-<h1>Preview</h1>
-
-![Screenshot 2024-06-21 110841](https://github.com/ProgrammingWithNick/My_Portfolio/assets/167402044/173a5f59-4c29-414f-bfd0-284d5cba7e3c)
-
-
-![Screenshot 2024-06-21 110759](https://github.com/ProgrammingWithNick/My_Portfolio/assets/167402044/a9e73a88-3a29-403d-b95d-a1730e88555b)
-
-
-
 
 Follow these steps to set up the project locally on your machine.
 
